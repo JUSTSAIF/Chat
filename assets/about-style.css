@@ -1,0 +1,13 @@
+* {
+    font-family: "Montserrat", sans-serif;
+}
+
+body {
+    padding: 10px 110px 110px 110px;
+    background-color: rgba(0, 0, 0, 0.93);
+    color: azure;
+}
+
+a {
+    color:cornflowerblue;
+}
